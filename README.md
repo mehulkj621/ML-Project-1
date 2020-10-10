@@ -12,6 +12,9 @@ In k-NN regression, the output is the property value for the object. This value 
 
 KNN works well with a small number of input variables (p), but struggles when the number of inputs is very large.
 
-Our Goal is to predict whether a person will be able to buy a car depending upon his age and his salary
+
+Our Goal is to predict whether a person will be able to buy a car depending upon his age and his salary.
+
 Using Logistic Regression we achived an accuracy of - 0.875
+
 Using K Nearest Neighbours we achived an accuracy of - 0.9166666666666666
